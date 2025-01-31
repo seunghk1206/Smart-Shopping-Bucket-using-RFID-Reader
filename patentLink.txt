@@ -1,1 +1,0 @@
-http://kpat.kipris.or.kr/kpat/biblioa.do?method=biblioFrame
